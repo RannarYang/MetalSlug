@@ -1,0 +1,1 @@
+{"version":3,"file":"GoDownCommand.js","sourceRoot":"","sources":["../../../src/command/GoDownCommand.ts"],"names":[],"mappings":";;;;;;;;;;AAAA;;EAEE;AACF;IAA4B,iCAAO;IAC/B,uBAAY,IAAa;eACrB,kBAAM,IAAI,CAAC;IACf,CAAC;IACM,+BAAO,GAAd;QACI,OAAO,CAAC,GAAG,CAAC,YAAY,CAAC,CAAC;QAC1B,IAAI,CAAC,IAAI,CAAC,MAAM,EAAE,CAAC;IACvB,CAAC;IACL,oBAAC;AAAD,CAAC,AARD,CAA4B,OAAO,GAQlC"}

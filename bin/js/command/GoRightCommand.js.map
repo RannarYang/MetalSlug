@@ -1,0 +1,1 @@
+{"version":3,"file":"GoRightCommand.js","sourceRoot":"","sources":["../../../src/command/GoRightCommand.ts"],"names":[],"mappings":";;;;;;;;;;AAAA;;EAEE;AACF;IAA6B,kCAAO;IAChC,wBAAY,IAAa;eACrB,kBAAM,IAAI,CAAC;IACf,CAAC;IACM,gCAAO,GAAd;QACI,OAAO,CAAC,GAAG,CAAC,aAAa,CAAC,CAAC;QAC3B,IAAI,CAAC,IAAI,CAAC,OAAO,EAAE,CAAC;IACxB,CAAC;IACL,qBAAC;AAAD,CAAC,AARD,CAA6B,OAAO,GAQnC"}
