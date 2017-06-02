@@ -7,6 +7,6 @@ class DropBombCommand extends Command{
     }
     public execute() {
         console.log('drop bomb......');
-        this.hero.dropBomb();
+        // this.hero.dropBomb();
     }
 }

@@ -1,8 +1,0 @@
-{
-    "GoUpCommand": 111,
-    "GoLeftCommand": 222,
-    "GoDownCommand": 333,
-    "GoRightCommand": 444,
-    "ShootCommand": 333,
-    "DropBombCommand": 113
-}

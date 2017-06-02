@@ -29,11 +29,17 @@ class BattleState extends Laya.Sprite implements ISceneState{
     private loadedCommandConfigComplete(data) {
         // console.log('data.......', data);
         if (data) {
-            // console.log('loadedCommandConfigComplete');
+            // 加入背景
+            let background = new Background();
+            this.addChild(background);
             let commandConfig_json = Laya.Loader.getRes('res/config/commandConfig.json');
-            let hero = new Heroine();
+            let hero = new Heroine(this);
             this.addChild(hero);
             new InputHandler(hero, commandConfig_json);
         }
+    }
+    public center(heroX, increaseX) {
+        if (heroX < 430) return;
+        this.x -= increaseX;
     }
 }

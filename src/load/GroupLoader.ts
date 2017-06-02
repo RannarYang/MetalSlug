@@ -23,9 +23,22 @@ class GroupLoader {
             "img/startState/open/open0.png",
             {url: "res/atlas/img/startState.json", type: Laya.Loader.ATLAS},
             {url: "res/atlas/img/startState/open.json", type: Laya.Loader.ATLAS},
+            // background:
+            "img/battleState/background/bg0.jpg",
+            "img/battleState/background/bg1.jpg",
+            "img/battleState/background/bg2.jpg",
+            "img/battleState/background/bg3.jpg",
+            "img/battleState/background/bg4.jpg",
+            "img/battleState/background/bg5.jpg",
+            "img/battleState/background/bg6.jpg",
+            "img/battleState/background/bg7.jpg",
+            "img/battleState/background/bg8.jpg",
+            "img/battleState/background/bg9.jpg",
+            // hero
             {url: "res/atlas/img/battleState/hero/body/stand.json", type: Laya.Loader.ATLAS},
             {url: "res/atlas/img/battleState/hero/body/jump.json", type: Laya.Loader.ATLAS},
             {url: "res/atlas/img/battleState/hero/body/diving.json", type: Laya.Loader.ATLAS},
+            {url: "res/atlas/img/battleState/hero/body/attack.json", type: Laya.Loader.ATLAS},
             {url: "res/atlas/img/battleState/hero/leg/stand.json", type: Laya.Loader.ATLAS},
             {url: "res/atlas/img/battleState/hero/leg/jump.json", type: Laya.Loader.ATLAS},
             {url: "res/atlas/img/battleState/hero/leg/squat.json", type: Laya.Loader.ATLAS},
@@ -33,6 +46,7 @@ class GroupLoader {
             {url: "res/atlas/img/battleState/hero/leg/squat_move.json", type: Laya.Loader.ATLAS},
             {url: "res/atlas/img/battleState/bomb/lay.json", type: Laya.Loader.ATLAS},
             {url: "res/atlas/img/battleState/bomb/burst.json", type: Laya.Loader.ATLAS},
+            {url: "res/atlas/img/battleState/bullet.json", type: Laya.Loader.ATLAS},
         ];
         Laya.loader.load(res, null, Laya.Handler.create(this, this.onLoaded, null, false));
     }

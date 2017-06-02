@@ -7,6 +7,6 @@ class ShootCommand extends Command{
     }
     public execute() {
         console.log('shoot...');
-        this.hero.shoot();
+        // this.hero.shoot();
     }
 }

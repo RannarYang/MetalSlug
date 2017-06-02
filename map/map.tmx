@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="287" height="16" tilewidth="40" tileheight="40" nextobjectid="1">
+ <tileset firstgid="1" name="map0" tilewidth="960" tileheight="640" tilecount="1" columns="1">
+  <image source="../laya/assets/img/battleState/background/map0.jpg" width="960" height="640"/>
+ </tileset>
+ <tileset firstgid="2" name="map1" tilewidth="960" tileheight="640" tilecount="1" columns="1">
+  <image source="../laya/assets/img/battleState/background/map1.jpg" width="960" height="640"/>
+ </tileset>
+ <tileset firstgid="3" name="map2" tilewidth="960" tileheight="640" tilecount="1" columns="1">
+  <image source="../laya/assets/img/battleState/background/map2.jpg" width="960" height="640"/>
+ </tileset>
+ <tileset firstgid="4" name="map3" tilewidth="960" tileheight="640" tilecount="1" columns="1">
+  <image source="../laya/assets/img/battleState/background/map3.jpg" width="960" height="640"/>
+ </tileset>
+ <tileset firstgid="5" name="map4" tilewidth="960" tileheight="640" tilecount="1" columns="1">
+  <image source="../laya/assets/img/battleState/background/map4.jpg" width="960" height="640"/>
+ </tileset>
+ <tileset firstgid="6" name="map5" tilewidth="960" tileheight="640" tilecount="1" columns="1">
+  <image source="../laya/assets/img/battleState/background/map5.jpg" width="960" height="640"/>
+ </tileset>
+ <tileset firstgid="7" name="map6" tilewidth="960" tileheight="640" tilecount="1" columns="1">
+  <image source="../laya/assets/img/battleState/background/map6.jpg" width="960" height="640"/>
+ </tileset>
+ <tileset firstgid="8" name="map7" tilewidth="940" tileheight="640" tilecount="1" columns="1">
+  <image source="../laya/assets/img/battleState/background/map7.jpg" width="960" height="640"/>
+ </tileset>
+ <tileset firstgid="9" name="map8" tilewidth="960" tileheight="640" tilecount="1" columns="1">
+  <image source="../laya/assets/img/battleState/background/map8.jpg" width="960" height="640"/>
+ </tileset>
+ <tileset firstgid="10" name="map9" tilewidth="960" tileheight="640" tilecount="1" columns="1">
+  <image source="../laya/assets/img/battleState/background/map9.jpg" width="960" height="640"/>
+ </tileset>
+ <tileset firstgid="11" name="map10" tilewidth="960" tileheight="640" tilecount="1" columns="1">
+  <image source="../laya/assets/img/battleState/background/map10.jpg" width="960" height="640"/>
+ </tileset>
+ <tileset firstgid="12" name="map11" tilewidth="960" tileheight="640" tilecount="1" columns="1">
+  <image source="../laya/assets/img/battleState/background/map11.jpg" width="960" height="640"/>
+ </tileset>
+ <layer name="块层 1" width="287" height="16">
+  <data encoding="base64" compression="zlib">
+   eJztzEcNgAAAADH29q+XIOIeJK2ADgMAAAAAAAAAAAAAAAAAAAAA/NsY/1P8z/G/xP8a/1v87/F/hPcZ3p8r/u/4f+L/Bc+wAE8=
+  </data>
+ </layer>
+</map>

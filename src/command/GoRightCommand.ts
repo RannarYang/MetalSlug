@@ -7,6 +7,6 @@ class GoRightCommand extends Command{
     }
     public execute() {
         console.log('go right...');
-        this.hero.goRight();
+        // this.hero.goRight();
     }
 }

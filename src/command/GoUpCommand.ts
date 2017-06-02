@@ -7,6 +7,6 @@ class GoUpCommand extends Command{
     }
     public execute() {
         console.log('go up...');
-        this.hero.goUp();
+        // this.hero.goUp();
     }
 }
